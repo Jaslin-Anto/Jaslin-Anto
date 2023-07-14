@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaslin-Anto
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, javascript, React js
+- 👀 I’m interested in Cloud computing 
+- 🌱 I’m currently learning Aws
 
 <!---
 Jaslin-Anto/Jaslin-Anto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
