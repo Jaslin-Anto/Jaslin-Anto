@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaslin-Anto
 - 👀 I’m interested in Cloud computing 
-- 🌱 I’m currently DEVOPS
+- 🌱 I’m currently learning DEVOPS
 
 <!---
 Jaslin-Anto/Jaslin-Anto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
