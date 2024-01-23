@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaslin-Anto
 - 👀 I’m interested in Cloud computing 
-- Technical operations 
+- 🧑‍💻 Technical operations 
 - 🌱 I’m currently learning DEVOPS
 
 <!---
